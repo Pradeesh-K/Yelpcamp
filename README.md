@@ -7,19 +7,19 @@ YelpCamp is a web application that allows users to browse and review campgrounds
 ## Technologies Used
 
 YelpCamp is developed using various technologies including:
-### HTML/CSS:
+#### HTML/CSS:
 For the overall structure and styling of the web pages.
-### JavaScript:
+#### JavaScript:
 For implementing interactivity and dynamic features.
-### Node.js: 
+#### Node.js: 
 A JavaScript runtime environment for server-side development.
-### Express.js: 
+#### Express.js: 
 A web application framework for Node.js, used to build the server and routes.
-### MongoDB: 
+#### MongoDB: 
 A NoSQL database used for storing campground and user information.
-### Mongoose: 
+#### Mongoose: 
 An ODM (Object-Document Mapper) library for MongoDB and Node.js.
-### Passport.js: 
+#### Passport.js: 
 An authentication middleware for Node.js used to manage user authentication.
 
 ## Development
