@@ -6,9 +6,11 @@ YelpCamp is a web application that allows users to browse and review campgrounds
 
 ## Technologies Used
 
-YelpCamp is developed using various technologies including:
+YelpCamp is developed using various technologies including:<br />
 **HTML/CSS:**
 For the overall structure and styling of the web pages.<br />
+**Bootstrap:**
+Bootstrap A popular front-end framework offering a wide array of pre-designed, responsive components and utilities, simplifying the process of creating visually appealing and functional web applications.<br />
 **JavaScript:**
 For implementing interactivity and dynamic features.<br />
 **Node.js:**
