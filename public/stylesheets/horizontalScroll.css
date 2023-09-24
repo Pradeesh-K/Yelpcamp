@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
+.scrolling-text-container {
+  overflow: hidden;
+  width: 100%;
+}
+
+.scrolling-text {
+  white-space: nowrap;
+  animation: scrollText 20s linear infinite;
+}
+@keyframes scrollText {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
